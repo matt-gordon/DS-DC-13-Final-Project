@@ -66,6 +66,6 @@ Data Files & Format
 - The conversion rule to extract the real acceleration value from the coded value is the following:   
       real_val = -1.5g + (coded_val/63)*3g
 
-   
-![]('hand.jpg')     
+
+![]('resources/hand.jpg')     
 [modified from original](https://www.colourbox.dk/preview/2586636-right-hand-isolated-on-the-white.jpg)
