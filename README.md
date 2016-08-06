@@ -67,5 +67,5 @@ Data Files & Format
       real_val = -1.5g + (coded_val/63)*3g
 
 
-![]('resources/hand.jpg')     
+![](/resources/hand.jpg?raw=true)     
 [modified from original](https://www.colourbox.dk/preview/2586636-right-hand-isolated-on-the-white.jpg)
